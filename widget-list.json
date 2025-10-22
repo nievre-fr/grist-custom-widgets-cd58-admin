@@ -479,5 +479,21 @@
     ],
     "isGristLabsMaintained": false,
     "lastUpdatedAt": "2024-10-09T14:36:40+02:00"
-  }
+  },
+    {
+      "name": "Tableau croisé dynamique",
+      "url": "https://gristgouv.github.io/TCD-widget/index.html",
+      "widgetId": "@gristgouv/TCD-widget",
+      "published": true,
+      "accessLevel": "read table",
+      "renderAfterReady": true,
+      "description": "Construisez un TCD avec la donnée de votre table.",
+      "authors": [
+        {
+          "name": "Arthur Panckoucke",
+          "url": "https://github.com/Arthurpanck"
+        }
+      ],
+      "lastUpdatedAt": "2025-05-20T17:58:38-04:00"
+    }
 ]
